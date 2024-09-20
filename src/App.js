@@ -10,6 +10,7 @@ function App() {
       <ProfileCard title="Ashish" handle="@ashish567" />
       <ProfileCard title="Bindu" handle="@bindu137" />
       <ProfileCard title="Akshaya" handle="@akshaya19" />
+      <ProfileCard title="Ajay" handle="@ajay18" />
     </div>
   );
 }
