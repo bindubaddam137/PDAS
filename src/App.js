@@ -7,6 +7,7 @@ function App() {
       <ProfileCard title="Alexa" handle="@alexa99" />
       <ProfileCard title="Cortana" handle="@cortana32" />
       <ProfileCard title="Siri" handle="@siri01" />
+      <ProfileCard title="Ashish" handle="@ASh01" />
     </div>
   );
 }
